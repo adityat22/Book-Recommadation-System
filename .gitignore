@@ -1,0 +1,6 @@
+.venv
+./venv
+data.csv
+./data.csv
+intents.json
+./intents.json
